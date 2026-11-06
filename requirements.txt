@@ -1,0 +1,7 @@
+streamlit>=1.50,<2
+streamlit-ace>=0.1.1
+pandas>=2.1
+plotly>=5.20
+coverage>=7.6
+pytest>=8.3
+reportlab>=4.2
